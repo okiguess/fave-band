@@ -1,0 +1,27 @@
+/*
+font-family: 'Open Sans', sans-serif;
+*/
+.column {
+  float: left;
+  width: 250px;
+  padding-right: 25px;
+}
+
+.container {
+  font-family: 'Open Sans', sans-serif;
+  float: left;
+}
+
+.columns {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+.list {
+  padding-top: 30px;
+  display:block;
+  float:left;
+}
+.images {
+  height: 50px;
+  float:left;
+}
